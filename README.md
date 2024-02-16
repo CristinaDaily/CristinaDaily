@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<h1 align="center">Hi there👋, I'm Kristina</h1>
 <p align="left">
 I’m currently pursuing a career as a Junior Frontend developer, while also expanding my skillset by learning React and TypeScript. I’m working on a project that utilizes these technologies to further strengthen my proficiency.
 </p>
