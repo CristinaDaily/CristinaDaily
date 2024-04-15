@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="left">
-I’m currently pursuing a career as a Junior Frontend developer, while also expanding my skillset by learning React and TypeScript. I'm passionate about crafting engaging and dynamic web applications that captivate users and enhance their experiences. 💻🚀
+I’m currently pursuing a career as a Frontend developer, while also expanding my skillset by learning TypeScript. I'm passionate about crafting engaging and dynamic web applications that captivate users and enhance their experiences. 💻🚀
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
